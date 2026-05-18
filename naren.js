@@ -1,6 +1,6 @@
 console.log("Hello Welcom to our Console");
- const Name=()=>{
-          console.log("Welcome");
-          
-        }
-        Name()
+
+()=>{
+    console.log("Hello Naren ,Tomorrow you will go to clinic for treatment");
+    
+}
