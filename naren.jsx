@@ -8,5 +8,5 @@ function naren() {
     </div>
   )
 }
-console.log("Main branch old text");
+
 export default naren
