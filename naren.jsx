@@ -9,4 +9,18 @@ function naren() {
   )
 }
 
+console.log("Hello Rukumani");
+
+console.log("Hello Rukumani");
+
+console.log("Hello Rukumani");
+
+console.log("Hello Rukumani");
+
+function num(){
+console.log("Very Hot Temperature in my Area ");
+
+}num()
+
+
 export default naren
