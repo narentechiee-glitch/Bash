@@ -9,6 +9,4 @@ function naren() {
   )
 }
 
-
-
 export default naren
